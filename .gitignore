@@ -1,0 +1,5 @@
+# Mengabaikan berkas kredensial dan konfigurasi lokal
+*.env
+kredensial*.txt
+*.log
+.vscode/
